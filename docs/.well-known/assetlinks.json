@@ -1,0 +1,16 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.jaybobzin.standup.nowin.app",
+      "sha256_cert_fingerprints" : [
+	  52:5D:27:0F:58:86:19:5B:00:26:E2:76:64:BA:3A:DB:09:3B:33:4E
+      ]
+    }
+  }
+]
+
